@@ -4,9 +4,8 @@ Ein paar Python Grundlagen und kleine Beispiele zum Spielen.
 Es werden folgende Themen abgedeckt:
 
 * [Was ist Python?](was_ist_python.md)
-* Datentypen
-* Variablen
-* Ausgabe von Daten
+* [Datentypen](datentypen.md)
+* [Variablen inkl. Ausgabe am Bildschirm](variablen.md)
 * Grundrechenarten
 * Abfragen
 * User Input
