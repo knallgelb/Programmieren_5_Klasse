@@ -10,6 +10,7 @@ Es werden folgende Themen abgedeckt:
 * [User Input](user_input.md)
 * [Abfragen](abfragen.md)
 * [Listen inkl. FOR-Schleifen](listen.md)
+* [Zeichnen mit Turtle](turtle.md)
 
 ## Python installieren / Online Interpreter
 Auf der Webseite [python.org](https://python.org) kann man sich Python herunterladen und installieren.
