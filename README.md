@@ -6,7 +6,7 @@ Es werden folgende Themen abgedeckt:
 * [Was ist Python?](was_ist_python.md)
 * [Datentypen](datentypen.md)
 * [Variablen inkl. Ausgabe am Bildschirm](variablen.md)
-* Grundrechenarten
+* [Grundrechenarten](grundrechenarten.md)
 * Abfragen
 * User Input
 * Listen inkl. FOR-Schleifen
