@@ -8,7 +8,7 @@ Es werden folgende Themen abgedeckt:
 * [Variablen inkl. Ausgabe am Bildschirm](variablen.md)
 * [Grundrechenarten](grundrechenarten.md)
 * [User Input](user_input.md)
-* Abfragen
+* [Abfragen](abfragen.md)
 * Listen inkl. FOR-Schleifen
 
 ## Python installieren / Online Interpreter
