@@ -3,7 +3,8 @@ Ein paar Python Grundlagen und kleine Beispiele zum Spielen.
 
 Es werden folgende Themen abgedeckt:
 
-* Was ist Python?
+* [Was ist Python?](was_ist_python.md)
+* Datentypen
 * Variablen
 * Ausgabe von Daten
 * Grundrechenarten
