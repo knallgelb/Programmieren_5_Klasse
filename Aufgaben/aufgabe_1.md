@@ -64,3 +64,5 @@ Ich werde mich bemühen euren Wunsch ... zu erfüllen.
 Ich hab euch lieb. Dickes Bussi und knuddeldrück!
 Eure [euer Name]
 ```
+
+**Tipp**: Wie man mehrzeilige Texte erstellen kannst, findest du unter den [datentypen](../datentypen.md)
