@@ -7,6 +7,7 @@ Es werden folgende Themen abgedeckt:
 * [Datentypen](datentypen.md)
 * [Variablen inkl. Ausgabe am Bildschirm](variablen.md)
 * [Grundrechenarten](grundrechenarten.md)
+* [Funktionen](funktionen.md)
 * [User Input](user_input.md)
 * [Abfragen](abfragen.md)
 * [Listen inkl. FOR-Schleifen](listen.md)
