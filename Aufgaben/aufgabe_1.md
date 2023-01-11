@@ -34,7 +34,7 @@ Frage die Benutzerin nach ihrem Lieblingsessen und weise diesen Wert der Variabl
 Gibt anschließend folgenden Text aus:
 
 ```
-Ich essen unheimlich gerne ..., das schmeck sooooo gut.
+Ich esse unheimlich gerne ..., das schmeck sooooo gut.
 ```
 
 Ersetze ... mit der Variable `lieblingsessen`. Verwende die f-String Notation.
