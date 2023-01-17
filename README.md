@@ -1,5 +1,9 @@
-# Programmieren_5_Klasse
+# Programmieren_5_Klasse || Digitale Grundbildung
 Ein paar Python Grundlagen und kleine Beispiele zum Spielen.
+
+*Wer möchte, kann dieses Repository forken und mitarbeiten. Ich freue mich über aktive TeilnehmerInnen.*
+
+*Wer Fehler im Text/Logik findet, möge bitte ein Issue erstellen. Vielen lieben Dank dafür!*
 
 Es werden folgende Themen abgedeckt:
 
