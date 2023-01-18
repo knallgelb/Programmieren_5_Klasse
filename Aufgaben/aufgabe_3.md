@@ -26,7 +26,7 @@ Folgende Fragen sollen wie folgt beantwortet werden:
 * Wenn dein `alter`
     * kleiner als 14 ist, dann gib `Ich darf in Wien zwischen 5 und 23h unterwegs sein.`
     * größer als 14 und kleiner als 16 ist, dann
-      gib `Ich darf laut Judengschutzgesetzt in Wien schon bis 1h Nachts unterwegs sein.`
+      gib `Ich darf laut Jugendschutzgesetz in Wien schon bis 1h Nachts unterwegs sein.`
     * größer als 16 ist, dann gib `Ich darf in Wien so lange ich will unterwegs sein.`
 * Wenn deine `party_freunde_anzahl`
     * kleiner 5 ist, dann gib `Wird eine überschaubare Party. Es kommen {party_freunde_anzahl} Freunde von mir.` aus.
