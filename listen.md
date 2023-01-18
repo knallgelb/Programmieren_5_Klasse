@@ -1,13 +1,17 @@
 # Listen
+
 Können mehrere Werte aufnehmen. Siehe [datentypen](datentypen.md).
 
 ## Listen abarbeiten
+
 Um für jeden Wert in einer Liste eine bestimmte Aktion durchzuführen, kann man eine `For-Schleife` verwenden.
 
 ### For-Schleife
+
 Z.B. möchte man für jeden Wert in der Liste *Wünsche* seinen Eltern anschreiben.
 
 ### Beispiel
+
 ```python
 meine_wuensche = ["ein neues Computerspiel", "einen Urlaub", "eine Husky Schlittenfahrt"]
 
@@ -23,6 +27,7 @@ for wunsch in meine_wuensche:
 ```
 
 ## Abfragen: Elemente in der Liste vorhanden?
+
 Es gibt die Möglichkeit nachzufragen, ob ein Element in der Liste vorhanden bzw. nicht vorhanden ist.
 
 Das funktioniert über das Wort `in`.
@@ -32,7 +37,7 @@ Verneinen kann man das mit `not`.
 ### Beispiel
 
 ```python
-noten = [2,1,4,3,2,5,2]
+noten = [2, 1, 4, 3, 2, 5, 2]
 
 if 5 in noten:
     print("Dieses Jahr war leider ein Fünfer dabei. Mach es nächstes Jahr besser!")
@@ -44,7 +49,9 @@ if "Rainer" not in namen:
 ```
 
 ## Minimum / Maximum / Summe
+
 In Python kann man über die Funktionen
+
 * `min(liste)` das Minimum der Liste
 * `max(liste)` das Maximum der Liste
 * `sum(liste)` die Summe der Liste
@@ -56,8 +63,24 @@ herausfinden.
 Siehe auch [Variablen](variablen.md).
 
 ```python
-noten = [2,1,4,3,2,5,2]
+noten = [2, 1, 4, 3, 2, 5, 2]
 minimum = min(noten)
 maximum = max(noten)
 summe = sum(noten)
+```
+
+## Listen miteinander verbinden/verschränken
+
+Wenn zwei Listen etwas miteinander zu tun haben (z.B. die Gegenstände einer Einkaufsliste und ihre Anzahl), dann kann
+man diese beiden Listen miteinander verschränken.
+
+### Beispiel zip
+
+```python
+x = [1, 2, 3]
+y = [4, 5, 6]
+zipped = zip(x, y)
+
+for x, y in zipped:
+    print(f"x hat den Wert {x} und y den Wert {y}")
 ```
