@@ -24,13 +24,13 @@ Folgende Fragen sollen wie folgt beantwortet werden, gib den Text aus der nach d
     * kleiner als 14 ist | `Ich darf in Wien zwischen 5 und 23h unterwegs sein.`
     * größer gleich als 14 und kleiner gleich als 16 ist | `Ich darf in Wien schon bis 1h Nachts unterwegs sein.`
     * größer als 16 ist | `Ich darf in Wien so lange ich will unterwegs sein.`
-* Wenn die Anzahl der Buchstaben von `mein_name` länger als 8 Zeichen
+* Wenn die Anzahl der Buchstaben von `mein_name` größer gleich als 8 Zeichen
   ist | `Mein Name {mein_name} hat mehr als 8 Zeichen.`
     * In allen anderen Fällen | `Mein Name {mein_name} hat weniger als 8 Zeichen.`
     * **Hinweis**: über `len(variablenname)` kann man die Länge eines Strings herausfinden.
 * Wenn deine `party_freunde_anzahl`
     * kleiner 5 ist | `Wird eine überschaubare Party. Es kommen {party_freunde_anzahl} Freunde von mir.`
-    * größer als 5 | `Die Party ist schon größer.`
+    * größer gleich als 5 | `Die Party ist schon größer.`
     * größer 20 | `Wird eine mächtige Party.`
 * Wenn `klasse_mitglieder_letztes_jahr` größer als `klasse_mitglieder_dieses_jahr`
   ist | `Dieses Schuljahr haben {klasse_mitglieder_letztes_jahr - klasse_mitglieder_dieses_jahr} Freunde die Klasse verlassen.`.
